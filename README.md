@@ -181,3 +181,28 @@ By connecting AQI trends with public health outcomes and consumer demand indicat
 ## 🔗 Project Outcome
 
 The Air Purifier Market Fit Analysis Dashboard successfully demonstrates how environmental and public health analytics can be leveraged to identify market opportunities, shape product strategy, and support evidence-based business decisions for a new product launch.
+
+## 7. Screenshots / Demo
+
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Home.png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Market%20H-2.png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/problem%20statement%20H-3.png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/question%20H-4.png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Top%20%26%20Bottom%20AQI(1).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Southern%20States(2).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Weekday%20%26%20Weedend%20AQI%20(3).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Monthly%20AQI%20States(4).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Bengaluru%20AQI(5).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Dieses%20burden%20Vs%20AQI(6).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/EV%20Adoption(7).png)
+![Dashboard Preview](https://github.com/varshapawar1907/Product-Market-Fit/blob/main/Recommendation(7).png)
+
+
+
+### 🔗 Live Interactive Dashboard
+
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGU3NjFhNWQtNmFkNi00NzMxLThlZTUtMDAzNmFlZjdjYWI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+
